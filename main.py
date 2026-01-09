@@ -1,8 +1,9 @@
 import os
 from bot_multimodal import BotMultimodal
 
-TOKEN = os.getenv("8479058192:AAHqYwqvh5dqNmnhl9YToT9_rMZtfXrywKY")
+TOKEN = os.getenv("Coloque aqui o token")
 
 bot = BotMultimodal(TOKEN)
 
 bot.run()
+
